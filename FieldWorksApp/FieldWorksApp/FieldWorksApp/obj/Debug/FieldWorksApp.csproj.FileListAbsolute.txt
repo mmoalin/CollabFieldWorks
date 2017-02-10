@@ -1,0 +1,16 @@
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.MainPage.xaml.g.cs
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.MediaPage.xaml.g.cs
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\FieldWorksApp.dll
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\FieldWorksApp.pdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.dll
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.pdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.dll.mdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\FieldWorksApp.dll.mdb

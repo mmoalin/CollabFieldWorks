@@ -12,5 +12,8 @@ C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\
 C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.dll
 C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.pdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.Preview.xaml.g.cs
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.dll.mdb
+C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\FieldWorksApp.dll.mdb
 C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\obj\Debug\FieldWorksApp.dll.mdb
 C:\TFS\Year_4_MEng\Safe\CFW\FieldWorksApp\FieldWorksApp\FieldWorksApp\bin\Debug\FieldWorksApp.dll.mdb

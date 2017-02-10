@@ -12,7 +12,7 @@ namespace FieldWorksApp
     {
         private async void LoginClick(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NavigationPage(new MediaPage()));
+            await Navigation.PushAsync(new MediaPage());
         }
         public MainPage()
         {

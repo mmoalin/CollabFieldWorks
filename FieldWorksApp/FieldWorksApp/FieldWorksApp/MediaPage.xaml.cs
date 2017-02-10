@@ -27,7 +27,10 @@ namespace FieldWorksApp
                 instance = new MediaController();
             }
         }
+        private MediaController()
+        {
 
+        }
         internal StackLayout GetContent()
         {
             Dev();
@@ -129,7 +132,7 @@ namespace FieldWorksApp
                 Content = content,
             };
             var tabGestureRecognizer = new TapGestureRecognizer();
-            //tabGestureRecognizer.Tapped += (sender, e) => PreviewPageLoadUp(sender, e, img.Source.ToString(), img, f);
+            tabGestureRecognizer.Tapped += (sender, e) => PreviewPageLoadUp(sender, e, img.Source.ToString(), img, f);
 
             newBaby.GestureRecognizers.Add(tabGestureRecognizer);
             thumpNailsList.Children.Add(newBaby);
@@ -181,7 +184,7 @@ namespace FieldWorksApp
             //x.GestureRecognizers.Add(tabGestureRecognizer);
             return x;
         }
-        /*private async void PreviewPageLoadUp(object sender, EventArgs e)
+        private async void PreviewPageLoadUp(object sender, EventArgs e)
         {
             var prevPage = new Preview();
             await MediaPage.Navigation.PushModalAsync(prevPage);
@@ -191,7 +194,7 @@ namespace FieldWorksApp
             var prevPage = new Preview();
             prevPage.PopulateContent(img, t);
             await MediaPage.Navigation.PushModalAsync(prevPage);
-        }*/
+        }
 
 
     }
@@ -200,12 +203,19 @@ namespace FieldWorksApp
     {
         public MediaPage()
         {
-            Button AddMediaButton = new Button();
-            AddMediaButton.HorizontalOptions = LayoutOptions.End;
-            AddMediaButton.Text = "Add New Media";
-            StackLayout layout = new StackLayout();
-            layout.Children.Add(AddMediaButton);
             InitializeComponent();
+            var ctrl = MediaController.instance;
+            ctrl.MediaPage = this;
+            #region Content
+            this.Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 5);
+
+            //{ HorizontalOptions = LayoutOptions.Fill };
+
+            StackLayout content = ctrl.GetContent();
+
+            #endregion
+
+            this.Content = content;
         }
     }
 }

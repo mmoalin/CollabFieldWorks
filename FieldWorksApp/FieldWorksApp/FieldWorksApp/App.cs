@@ -9,24 +9,16 @@ namespace FieldWorksApp
 {
     public class App : Application
     {
+        public static App Instance;
+        public MediaController mediacontroller;
+
         public App()
         {
+            Instance = this;
             // The root page of your application
-            var content = new ContentPage
-            {
-                Title = "FieldWorksApp",
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
-                    }
-                }
-            };
-
+            var content = new MainPage();
+            MediaController.CreateInstance();
+            mediacontroller = MediaController.instance;
             MainPage = new NavigationPage(content);
         }
 
